@@ -1,6 +1,6 @@
-# unfound
+# NewsApp
 
-A new Flutter application.
+A new Flutter News Application.
 
 ## Getting Started
 
