@@ -112,6 +112,7 @@ class NewsList extends StatelessWidget {
                     image: news[index].urlToImage,
                   width: double.infinity,
                   height: 200.0,
+                  //hello
                 ),
                 //Image.network(news[index].urlToImage, height: 200.0,width: double.infinity,),
                 Text(news[index].title,textAlign: TextAlign.center,style: TextStyle(
